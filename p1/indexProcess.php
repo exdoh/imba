@@ -1,8 +1,8 @@
-<? // session_start();?>
-<? include "Configuration/dbConfig.php"; ?>
-<? include("dbService.php"); ?>
-<? include("functionService.php");?>
-<?
+<?php  session_start();?>
+<?php include "Configuration/dbConfig.php"; ?>
+<?php include("dbService.php"); ?>
+<?php include("functionService.php");?>
+<?php
 class indexProcess{
  ////////////////////////////////////////////////////////////////////////
   //get data

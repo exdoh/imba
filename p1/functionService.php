@@ -1,6 +1,6 @@
-<? include "Configuration/webConfig.php"; ?>
-<? //@ini_set('display_errors', '0');?>
-<?
+<?php include "Configuration/webConfig.php"; ?>
+<?php //@ini_set('display_errors', '0');?>
+<?php
 /*****function list
     wlog(str)
 	trans_log($str)

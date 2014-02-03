@@ -1,4 +1,4 @@
-<?  
+<?php  
   function db_wlog($str)
    {  
       if(!is_dir('Log'))

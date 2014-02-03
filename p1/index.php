@@ -1,5 +1,5 @@
-<? include "indexProcess.php";?>
-<? 
+<?php include "indexProcess.php";?>
+<?php 
    $pro   = new indexProcess;
    $slide_arr = listFileName("slide_pic");
    $slide_img = $slide_arr[rand(0,count($slide_arr)-1)];
@@ -27,7 +27,7 @@
 </script>
 <script language="javascript">
   function popupDes(path,topic){
-    var p = '<? echo $admin_folder;?>'+path;
+    var p = '<?php echo $admin_folder;?>'+path;
     NewWindow("newsEvents.php?file_path="+p+"&topic="+encodeURIComponent(topic),"news_events",550,700,1,1);
   }
   function NewWindow(mypage,myname,w,h,scroll,resize){
@@ -47,11 +47,11 @@
         <td>
             <div id="frames">
               <div id="header">
-                 <? include "head_img.txt";?>
+                 <?php include "head_img.txt";?>
               </div>
               <div id="menu">
                 <div id="menu_zone">
-                 <? include "menu.txt";?>
+                 <?php include "menu.txt";?>
                 </div>
                 <div id="slide_zone">
                   <img width="576" height="233" src="slide_pic/<? echo $slide_img;?>">
@@ -70,16 +70,16 @@
                                      </tr>
                               </table>
                                  <table width="90%" cellpadding="3" cellspacing="2">
-                                   <?
+                                   <?php
                                     $obj_n = $pro->getData_news();
                                     $co_n  = count($obj_n);
                                    ?>
-                                    <? for($i=0;$i<$co_n;$i++){ ?>	 
+                                    <?php for($i=0;$i<$co_n;$i++){ ?>	 
                                      <tr>
                                        <td width="5%" align="center" valign="top" class="Grid2"><img src="images/bullet.jpg"></td>
                                        <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=1&id=<? echo $obj_n[$i]->id;?>"><? echo $obj_n[$i]->topic;?></a></td>
                                      </tr>
-                                    <? } ?>
+                                    <?php } ?>
                                  </table>
                               <!-- NEWS -->
                         </td>
@@ -92,16 +92,16 @@
                                      </tr>
                               </table>
                                  <table width="90%" cellpadding="3" cellspacing="2">	
-                                   <?
+                                   <?php
                                      $obj_e = $pro->getData_events();
                                      $co_e  = count($obj_e);
                                    ?> 
-                                   <? for($i=0;$i<$co_e;$i++){ ?>	 
+                                   <?php for($i=0;$i<$co_e;$i++){ ?>	 
                                      <tr>
                                        <td width="5%" align="left" valign="top" class="Grid2"><img src="images/bullet.jpg"></td>
                                        <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=2&id=<? echo $obj_e[$i]->id;?>"><? echo $obj_e[$i]->topic;?></a></td>
                                      </tr>
-                                    <? } ?>
+                                    <?php } ?>
                               </table>
                               <!-- EVENT -->
                         </td>
@@ -111,7 +111,7 @@
                 <br>
               <br />
               </div>
-              <div id="footer"><? include "footer.txt";?></div>
+              <div id="footer"><?php include "footer.txt";?></div>
             </div>
         </td>
     </tr>

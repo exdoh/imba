@@ -1,0 +1,10 @@
+09:01:37 []  SELECT * FROM news order by news_id desc
+09:01:37 []  SELECT * FROM events order by events_id desc
+09:02:04 []  SELECT * FROM news order by news_id desc
+09:02:04 []  SELECT * FROM events order by events_id desc
+09:02:08 []  SELECT * FROM news order by news_id desc
+09:02:08 []  SELECT * FROM events order by events_id desc
+09:10:30 []  SELECT * FROM news order by news_id desc
+09:10:30 []  SELECT * FROM events order by events_id desc
+09:18:12 []  SELECT * FROM news order by news_id desc
+09:18:12 []  SELECT * FROM events order by events_id desc

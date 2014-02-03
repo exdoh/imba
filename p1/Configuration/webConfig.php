@@ -1,5 +1,5 @@
-<?
-$web_url              = "http://imba.bus.tu.ac.th/imba/";
+<?php
+$web_url              = "localhost/imba/";
 
 $admin_folder         = "admin/";
 $news_folder          = "news_eventFile/";
