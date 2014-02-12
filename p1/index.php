@@ -54,7 +54,7 @@
                  <?php include "menu.txt";?>
                 </div>
                 <div id="slide_zone">
-                  <img width="576" height="233" src="slide_pic/<? echo $slide_img;?>">
+                  <img width="576" height="233" src="slide_pic/<?php echo $slide_img;?>">
                 </div>
               </div>
               <div id="content">
@@ -77,7 +77,7 @@
                                     <?php for($i=0;$i<$co_n;$i++){ ?>	 
                                      <tr>
                                        <td width="5%" align="center" valign="top" class="Grid2"><img src="images/bullet.jpg"></td>
-                                       <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=1&id=<? echo $obj_n[$i]->id;?>"><? echo $obj_n[$i]->topic;?></a></td>
+                                       <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=1&id=<?php echo $obj_n[$i]->id;?>"><?php echo $obj_n[$i]->topic;?></a></td>
                                      </tr>
                                     <?php } ?>
                                  </table>
@@ -99,7 +99,7 @@
                                    <?php for($i=0;$i<$co_e;$i++){ ?>	 
                                      <tr>
                                        <td width="5%" align="left" valign="top" class="Grid2"><img src="images/bullet.jpg"></td>
-                                       <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=2&id=<? echo $obj_e[$i]->id;?>"><? echo $obj_e[$i]->topic;?></a></td>
+                                       <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=2&id=<?php echo $obj_e[$i]->id;?>"><?php echo $obj_e[$i]->topic;?></a></td>
                                      </tr>
                                     <?php } ?>
                               </table>
