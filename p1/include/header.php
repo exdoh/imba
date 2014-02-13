@@ -18,22 +18,18 @@
   	<div id="wrap">
 		<header>
 			<div id="banner">
-				<div id="logo-imba"></div>
+				<a href="index.php"><div id="logo-imba"></div></a>
 				<div id="logo-TU"></div>
 			</div>
 			
 			<div id="menu">
 				 <ul>
-				 	<li>ABOUT IMBA</li>
-				 	<li>ADMISSIONS</li>
-				 	<li>COURSES</li>
-				 	<li>CALENDAR</li>
-				 	<li>CONTACT US</li>
+				 	<li><a href="aboutus.php">ABOUT IMBA</a></li>
+				 	<li><a href="admissions.php">ADMISSIONS</a></li>
+				 	<li><a href="aboutus.php">COURSES</a></li>
+				 	<li><a href="calendar.php">CALENDAR</a></li>
+				 	<li><a href="contact.php">CONTACT US</a></li>
 				 </ul>
-			</div>
-			
-			<div id="carousel">
-				
 			</div>
 		</header>
 		

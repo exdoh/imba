@@ -74,7 +74,7 @@
                                     $obj_n = $pro->getData_news();
                                     $co_n  = count($obj_n);
                                    ?>
-                                    <?php for($i=0;$i<$co_n;$i++){ ?>	 
+                                   <?php for($i=0;$i<$co_n;$i++){ ?>	 
                                      <tr>
                                        <td width="5%" align="center" valign="top" class="Grid2"><img src="images/bullet.jpg"></td>
                                        <td  align="left" valign="top" class="detailPage"  width="95%"><a href="newsEvents.php?type=1&id=<?php echo $obj_n[$i]->id;?>"><?php echo $obj_n[$i]->topic;?></a></td>
