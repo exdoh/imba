@@ -1,0 +1,20 @@
+@font-face { font-family: "Oswald regular"; src: url(../fonts/Oswald-Regular.eot); src: url(../fonts/Oswald-Regular.eot) format("embedded-opentype"), url(../fonts/Oswald-Regular.woff) format("woff"), url(../fonts/Oswald-Regular.ttf) format("truetype"), url(../font/Oswald-Regular.svg) format("svg"); }
+
+html { height: 100%;}
+
+body {margin: 0;}
+
+#wrap {width: 1000px; margin: 0 auto;}
+
+#banner { background: #000; height: 100px;}
+
+#logo-imba {float: left; display: inline-block; background-image: url("../images/p1/imba.png"); width: 192px; height: 65px; margin: 18px 94px;}
+#logo-TU {float: right; background-image: url("../images/p1/Thammasat-Business-School.jpg"); width: 60px; height: 65px; margin: 18px 94px;}
+
+#menu {background: #333; height: 36px; border-top: 1px solid #666; border-bottom: 1px solid #666;}
+#menu ul {margin-top: 8px;}
+#menu li {display: inline-block; margin-left: 52px;font-size: 14px; color: #b3b3b3; margin-right: 40px; font-family: "Oswald regular"; cursor: pointer;}
+
+#carousel { height: 326px;}
+
+#footer {background:#000; height: 44px;}
