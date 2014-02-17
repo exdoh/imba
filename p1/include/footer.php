@@ -9,19 +9,22 @@
 	    </footer>
   	  </div>
   	  
-  	<!-- JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- Add jQuery library -->
-    <script src="JScript/Jquery/jquery-2.0.3.min.js"></script>
-    <script src="JScript/p1/imba.js"></script>
-    <script type="text/javascript">
-    	var imba = new imba();
-        	
-    	$(document).ready(function(){
-	        imba.reset();
-        });
-    </script>
-  
+  	  <script src="JScript/Jquery/jquery-2.0.3.min.js"></script>
+  	  
+  	  <script type="text/javascript">
+			function action_click(name,status)
+			{
+				if(status == 0)
+				{
+					$('#' + name + '-des').show();
+					$('#' + name).attr('onclick','action_click("' + name + '",1)')
+				}
+				else if (status == 1)
+				{
+					$('#' + name + '-des').hide();
+					$('#' + name).attr('onclick','action_click("' + name + '",0)')
+				}
+			}
+		</script>
   </body>
 </html>

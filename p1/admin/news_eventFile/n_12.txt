@@ -1,0 +1,16 @@
+<p><strong>A Great Man and Great Friend of THAMMASAT</strong></p>
+<table style="width: 469px; height: 195px" cellspacing="1" cellpadding="1" width="469" border="1">
+    <tbody>
+        <tr>
+            <td>&nbsp;<img style="width: 164px; height: 184px" height="147" alt="" width="120" src="http://imba.bus.tu.ac.th/imba/admin/userfiles/image/Mr_Yoguchi.JPG" /></td>
+            <td>
+            <p>* IMBA Executive Board</p>
+            <p>* Advisor : AMATA Corporation Public co.,ltd. (Industrial estate develop/management compay)</p>
+            <p>* Born : July 1, 1936 - Japan</p>
+            <p>Died : August 1, 2008 - Thailand</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;He will be remembered with great respect and admiration by his friends at Thammasat University</p>

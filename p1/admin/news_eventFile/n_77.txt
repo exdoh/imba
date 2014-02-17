@@ -1,0 +1,90 @@
+<p>&nbsp;</p>
+<table style="text-align: left; font-family: Verdana; color: rgb(51,51,51); font-size: 12px" cellspacing="5" cellpadding="3" width="800" align="center">
+    <tbody>
+        <tr>
+            <td width="100%" align="left">
+            <p>
+            <table style="text-align: left; font-family: Verdana; color: rgb(51,51,51); font-size: 12px" cellspacing="0" cellpadding="0" width="100%">
+                <tbody>
+                    <tr>
+                        <td valign="middle">
+                        <ul>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Application Selling &amp; Application Submission : September 1, 2012 - January 6, 2013</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Thammasat Business School's International Graduate Program Admission Test : January 13, 2013</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Announcement for Candidates who are eligible for an Interview : January 24, 2013</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Interview Examination : January 26, 2013</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Announcement of Successful Candidates : February 6, 2013</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Program Registration : February 20 - 24, 2013</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Pre-course begins : May 19, 2013</span></span></li>
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="middle">
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><b><br />
+                        </b></span><strong><span style="font-family: Verdana">At IMBA, the admission committee is looking for evidence of an applicant's potential to succeed in a demanding professional program.</span></strong></span></p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana">In addition to previous educational background, text scores, and recommendation letters, we review essays and conduct interviews to learn about an applicant's goals and understanding of IMBA program.&nbsp; We are trying to discover a solid match between an applicant and IMBA's</span>core values.</span></p>
+                        <p>&nbsp;</p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><strong>Minimum Admission Requirements :</strong></span></span></p>
+                        <ul>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Hold at least a Bachelor's Degree in any field</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Have working experience of at least a year</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Be able to demonstrate leadership and creative thinking.</span></span></li>
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="middle">
+                        <p>&nbsp;</p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><strong>Document Requirements :</strong></span></span></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span style="font-size: small"><span style="font-family: Verdana">&nbsp;&nbsp;&nbsp;<span class="about_name">The candidates need to submit the following documents to IMBA program after submitting the application form online</span>&nbsp;<span class="about_name"><br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Official Transcript (Undergraduate level)&nbsp;<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Official English Proficiency Score report. Applicants are required to submit either of the following score :</span></span></span>
+                        <ul style="font-size: 11px">
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Minimum scores of&nbsp;</span></span><span class="about_name"><span style="font-size: small"><span style="font-family: Verdana"><a style="color: rgb(51,51,51); text-decoration: none" target="_blank" href="http://litu.tu.ac.th/2012/index.php/en/litu-tests">TU-GET</a></span></span></span><span style="font-size: small"><span style="font-family: Verdana">&nbsp;550</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Minimum scores of&nbsp;</span></span><span style="font-family: Verdana"><span style="font-size: smaller"><a style="color: rgb(51,51,51); text-decoration: none" target="_blank" href="http://www.ets.org/bin/getprogram.cgi?urlSource=toefl&amp;newRegURL=&amp;test=TOEFL&amp;greClosed=new&amp;greClosedCountry=China&amp;browserType=Other&amp;toeflType=&amp;redirect=format&amp;t_country1=group_Thailand"><span style="font-size: small">TOEFL</span></a></span></span><span style="font-size: small"><span style="font-family: Verdana">&nbsp;550 (paper-based test) or 213&nbsp;(computer-based test) or 79-80 (internet-based test)</span></span></li>
+                            <li><span style="font-size: small"><span style="font-family: Verdana">Minimum score of&nbsp;</span></span><span style="font-family: Verdana"><span style="font-size: smaller"><a style="color: rgb(51,51,51); text-decoration: none" target="_blank" href="http://www.idp.co.th/IELTS/IELTS.aspx"><span style="font-size: small">IELTS</span></a></span></span><span style="font-size: small"><span style="font-family: Verdana">&nbsp;6.0</span></span></li>
+                        </ul>
+                        <p style="font-size: 11px"><span style="font-size: small"><span style="font-family: Verdana"><span class="about_name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*** all score must be taken within the last 2 years.<br />
+                        </span><span class="about_name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Proof of GMAT score (if applicable) at least 80% on the quantitative part , taken within the last 5 years<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;Two of 4 cm. X 5 cm. Photographs. All photographs must not be older than 6 months.<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Proof of Employment period.&nbsp;&nbsp;Have working experience at least 1 year after undergraduate.&nbsp;</span></span></span><span style="font-family: Verdana"><strong><span style="color: rgb(153,204,0)"><a style="color: rgb(51,51,51); text-decoration: none" target="_blank" href="http://imba.bus.tu.ac.th/imba/admin/userfiles/file/Admission/Proof%20of%20Employment(1).pdf"><span style="font-size: small">(Download Form)</span></a></span></strong></span><span style="font-size: small"><span style="font-family: Verdana"><span class="about_name"><span style="color: rgb(153,204,0)"><strong><br />
+                        &nbsp;&nbsp;&nbsp;</strong>&nbsp;<span style="color: rgb(0,0,0)">&nbsp; 6. Two letters of Recommendation&nbsp;</span></span></span></span></span><span style="font-family: Verdana"><span style="font-size: smaller"><span style="color: rgb(153,204,0)"><strong><span style="color: rgb(153,51,0)"><font color="#000000"><strong><span style="color: rgb(153,204,0)"><span style="font-size: small"><span class="about_name"><a target="_blank" href="http://imba.bus.tu.ac.th/imba/admin/userfiles/file/Admission/CONFIDENTIAL%20LETTER%20OF%20RECOMMENDATION(1).pdf">(Download Form)</a></span></span></span></strong></font></span></strong></span></span></span><span style="font-size: small"><span style="font-family: Verdana"><span style="color: rgb(153,204,0)"><strong><span style="color: rgb(153,51,0)"><br />
+                        </span></strong></span><br />
+                        </span></span></p>
+                        <p style="font-family: Verdana"><span style="font-size: small"><span class="about_name">*** Documents 1, 2, 4 and&nbsp;5&nbsp;must be mailed/sent to the IMBA office, Faculty of Commerce and Accountancy, Thammasat&nbsp;University, Thaprachan Campus, 2 Prachan rd., Pranakorn, Bangkok, 10200, before&nbsp;January 13, 2013.&nbsp;</span>&nbsp;<span class="about_name">Office hours : Monday - Friday 9 am - 6 pm, Sunday 8 am - 4 pm.</span>&nbsp;&nbsp;&nbsp;<span class="about_name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p>
+                        <p style="font-family: Verdana"><span style="font-size: small"><span class="about_name">*** Exceptional for the score of TU-GET&nbsp;1 - 12/2012, 1/2013 can be submitted not later than February 6, 2013.</span>&nbsp;<span class="about_name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p>
+                        <p style="font-family: Verdana"><span style="font-size: small">*** Document no.6 must be submitted on January 26, 2013</span><span style="font-size: small" class="about_name">&nbsp;in person to the staff in front of the interview room</span><span style="font-size: small" class="Apple-style-span">.</span></p>
+                        <p>&nbsp;</p>
+                        <p style="font-size: 11px">&nbsp;</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="middle"><span style="font-size: small"><span style="font-family: Verdana"><strong>The Procedure for applying to IMBA program :</strong></span></span></td>
+                    </tr>
+                    <tr>
+                        <td style="font-size: 11px">
+                        <p><span style="font-size: small"><span style="font-family: Verdana">1. Fill in the information required on the IMBA application form via the website&nbsp;</span></span><span class="about_name"><a style="color: rgb(51,51,51); text-decoration: none" target="_blank" href="http://grad.bus.tu.ac.th/en/index.htm"><span style="font-size: small"><span style="font-family: Verdana">http://grad.bus.tu.ac.th&nbsp;</span></span></a></span><span style="font-size: small"><span style="font-family: Verdana"><span class="about_name">and submit it online.</span>&nbsp;<span class="about_name">&nbsp;&nbsp;</span></span></span></p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><span class="about_name">2. Print out&nbsp;the online slip from the computer and bring it to the bank.</span>&nbsp;<span class="about_name">&nbsp;&nbsp;</span></span></span></p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><span class="about_name">3. Then, bring the evidence from the bank to the IMBA program on the&nbsp;written examination day.</span>&nbsp;<span class="about_name">&nbsp;&nbsp;</span></span></span></p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><span class="about_name">4. Send all the required documents to the address mentioned above.</span>&nbsp;&nbsp;</span></span></p>
+                        <p><span style="font-size: small"><span style="font-family: Verdana"><br />
+                        &nbsp;&nbsp;</span></span><span style="font-size: small"><span style="font-family: Verdana"><a style="color: rgb(51,51,51); text-decoration: none" target="_blank" href="http://gradreg.bus.tu.ac.th/home/register1.aspx?Lang=EN"><img alt="" src="http://imba.bus.tu.ac.th/imba/admin/userfiles/image/banner_09.jpg" /></a></span></span><span style="font-size: small"><span style="font-family: Verdana"><br />
+                        <span style="color: rgb(53,163,36)"><strong>&nbsp; For more information, please contact...<br />
+                        &nbsp; IMBA Program Office</strong><br />
+                        &nbsp; Faculty of Commerce and Accountancy, Thammasat University<br />
+                        &nbsp; Tel : 0-2613-2192, 0-2613-2194<br />
+                        &nbsp; Fax : 0-2224-8107<br />
+                        &nbsp; Email :&nbsp;</span></span></span><span style="font-size: small"><span style="font-family: Verdana"><a style="color: rgb(51,51,51); text-decoration: none" href="mailto:imba@tu.ac.th"><span style="color: rgb(53,163,36)">imba@tbs.tu.ac.th</span></a></span></span></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </p>
+            </td>
+        </tr>
+    </tbody>
+</table>

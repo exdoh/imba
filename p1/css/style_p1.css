@@ -7,6 +7,9 @@ html { height: 100%;}
 
 body {margin: 0;}
 
+.left-inline-block {float: left; display: inline-block;}
+.right-inline-block {float: right; display: inline-block;}
+
 #wrap {width: 1200px; margin: 0 auto;}
 
 #banner { background: #000; height: 100px;}
@@ -22,20 +25,81 @@ body {margin: 0;}
 #carousel { height: 326px; background: black;}
 #carousel img {margin-left: 100px;}
 
-.container {min-height: 312px; background: #e6e6e6; display: flex;}
-.container h3 {font-family: "Oswald regular"; font-size: 21px; font-weight: normal; margin-top: 20px; margin-bottom: 4px;}
-.container hr {width: 478px; margin: 0;}
+.container {min-height: 312px; background: #e6e6e6;}
+.container h1 {font-size: 34px;}
+.container h2 {font-size: 27px;}
+.container h3 {font-size: 21px;}
+.container h1, h2, h3 {font-family: "Oswald regular"; font-weight: normal; margin: 0;}
+.container hr {margin: 35px 0 15px;}
 
-.col-1 {float: left; display: inline-block; width: 600px;}
-.col-2 {display: inline-block; width: 600px;}
+.content {width: 1000px; margin: 0 auto;}
 
-#news {padding-left: 100px;}
-#events {padding-left: 20px;}
+.rows {padding: 20px 0 0px;}
+
+.col-100 {width: 100%;}
+.col-100 hr {margin: 2px 0;}
+.col-63 {width: 63%;}
+.col-62 {width: 62%;}
+.col-48 {width: 48%;}
+.col-48 hr {margin: 2px 0;}
+.col-35 {width: 35%;}
+.col-34 {width: 34%;}
+.col-32 {width: 32%;}
+.col-22 {width: 22%;}
+
+.col-contact-1 {width: 20%;}
+.col-contact-1 div {margin: 10px 0 20px;}
+.col-contact-2 {}
+.col-contact-2 input[type="text"] {width: 466px; height: 20px; border: 1px solid #ccc; margin: 8px 0;}
+.col-contact-2 textarea {width: 466px; border: 1px solid #ccc; margin: 8px 0;}
+.col-contact-2 select {width: 468px; height: 24px; border: 1px solid #ccc; margin: 8px 0;color: #666; font-family: "tex gyre heros regular"; font-size: 14px;}
+.col-contact-2 input[type="button"] {background-image: url("../images/p1/submit-button.jpg"); width: 101px; height: 23px; border: 0; cursor: pointer;}
+.col-contact-2 input[type="button"]:hover {background-image: url("../images/p1/submit-button-hover.jpg");}
+
+.span-4 {width:4%; height: 1px;}
+.span-3 {width:3%; height: 1px;}
+.span-2 {width:2%; height: 1px;}
+
+.clear {clear:both;}
+
 .rows-news-events {margin-bottom: 4px;}
 .bullet {display:inline-block; vertical-align: top;}
 .name-news-events {font-family: "HelveticaNeue Roman"; font-size: 14px; display:inline-block; width: 400px; padding: 3px 8px;}
 .name-news-events a {text-decoration:none; color: #4d4d4d;}
 .name-news-events a:hover {color: black;}
+
+.text-description-1 {font-family: "OpenSans Light"; font-size: 21px; color: #4d4d4d;}
+.text-description-2 {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
+
+.about-box {background: white; width: 320px; height: 370px;}
+.about-box-text-image {padding: 22px 0 16px; text-align: center;}
+.about-box-text-header {font-family: "Oswald regular"; font-size: 18px; color: #4d4d4d; text-align: center;}
+.about-box-text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #727272; padding: 10px 24px 0;}
+
+.text-content-header {font-family: "OpenSans Light"; font-size: 20px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
+.text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
+.text-content a {text-decoration:none; color: #4d4d4d; cursor: pointer;}
+.text-content a:hover {color: #9dc427;}
+.text-content-green {font-family: "tex gyre heros regular"; font-size: 14px; color: #62bd19;}
+.text-content-666 {font-family: "tex gyre heros regular"; font-size: 14px; color: #666;}
+.text-content ul {margin: 0;}
+
+.even {height: 32px; background: white; vertical-align: center; margin-bottom: 1px;}
+.odd {height: 32px; vertical-align: center;}
+.odd-des {display: inline-block; margin-bottom: 4px;}
+.even-odd-text {padding-top: 6px; padding-left: 16px; padding-right: 16px;}
+
+.font-bold {font-weight: bold;}
+
+.deadline {width: 680px;}
+
+#download-button {background-image: url("../images/p1/download-button.jpg"); width: 163px; height: 26px; margin-top: 14px}
+#download-button:hover {background-image: url("../images/p1/download-button-hover.jpg");}
+
+#addr {height: 70px;}
+#msg {height: 150px;}
+
+.text-padding-subject {padding-top: 56px;}
 
 footer {background:#000; height: 44px;}
 #copyright {float: left; font-family: "tex gyre heros regular"; font-size: 10px; color: #b3b3b3; padding: 15px 100px;}

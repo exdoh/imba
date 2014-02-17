@@ -1,18 +1,6 @@
-<? include "functionService.php"; ?>
-<? 
-   $slide_arr = listFileName("slide_pic");
-   $slide_img = $slide_arr[rand(0,count($slide_arr)-1)];
-?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>IMBA - Master's Degree Program in International Business</title>
-<meta name="keywords" content="Business" />
-<meta name="description" content="" />
-<link href="css/styles_new.css" rel="stylesheet" type="text/css" media="screen" />
-<link rel="stylesheet" type="text/css" href="css/cssverticalmenu.css" />
-<script type="text/javascript" src="JScript/cssverticalmenu.js"></script>
+<?php require("include/header.php");?>
+
+<!-- Google Analytics -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -26,127 +14,198 @@
   })();
 
 </script>
+<!-- Google Analytics -->
 
-</head>
-<body>
-<table cellpadding="0" cellspacing="0"  align="center" border="0" width="1000px">
-	<tr>
-        <td>
-            <div id="frames">
-              <div id="header">
-                 <? include "head_img.txt";?>
-              </div>
-              <div id="menu">
-                <div id="menu_zone">
-                 <? include "menu.txt";?>
-                </div>
-                <div id="slide_zone">
-                  <img width="576" height="233" src="slide_pic/<? echo $slide_img;?>">
-                </div>
-              </div>
-              <div id="content">
-                <br>
-                 <table cellspacing="3" cellpadding="5" width="100%" border="0" id="tb_content" align="center">
-                   <tr>
-                     <td colspan="2" align="left" valign="top" class="headPage">About&nbsp;us </td>
-                     </tr>
-                   <tr>
-                    	<td width="20%" valign="top">
-                        <table cellspacing="2" cellpadding="1" width="100%" border="0" align="left">
-                                        <tbody>
-                                            <tr>
-                                               <td width="5%"></td>
-                                               <td width="95%"><img src="images/bullet.jpg" />&nbsp;<a href="aboutus.php"  style="color:#696969"">What is IMBA?</a></td>
-                                            </tr>
-                                            <tr>
-                                               <td width="5%"></td>
-                                               <td width="95%"><img src="images/bullet.jpg" />&nbsp;<a href="aboutus2.php"  style="color:#696969"">What is Change Maker ?</a></td>
-                                            </tr>
-                                            <tr>
-                                               <td width="5%"></td>
-                                               <td width="95%"><img src="images/bullet.jpg" />&nbsp;<a href="aboutus3.php"  style="color:#696969"">Our Vision</a></td>
-                                            </tr>
-                                            <tr>
-                                               <td width="5%"></td>
-                                               <td width="95%"><img src="images/bullet.jpg" />&nbsp;<a href="aboutus4.php"  style="color:#696969"">Message from the Dean</a></td>
-                                               </tr>
-                                               <tr>
-                                               <td width="5%"></td>
-                                               <td width="95%"><img src="images/bullet.jpg" />&nbsp;<a href="aboutus5.php"  style="color:#696969"">Message from the Director</a></td>
-                                               </tr>
-                                               <tr>
-                                               <td width="5%"></td>
-                                               <td width="95%"><img src="images/bullet.jpg" />&nbsp;<a href="aboutus6.php"  style="color:#696969"">Study at IMBA</a></td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                     </td>
-                        <td width="80%">
-                                         <? //include $admin_folder.$content_folder."about.txt";?>	
-                                         <table id="tb_content" cellspacing="3" cellpadding="5" >
-    <tbody>
-        <tr>
-            <td colspan="2" class="headAbout">What is IMBA?
-            </td>
-            </tr>
-        <tr>
-            <td valign="top" width="25%" align="right"><img alt="" width="90" height="134" src="http://imba.bus.tu.ac.th/imba/admin/userfiles/image/14768994-high(1).jpg" />
-            <div style="width: 125px; height: 11px" class="aboutName" align="left">Dr.Edward&nbsp;Rubesch</div>
-            <div style="width: 125px; height: 11px" class="aboutName" align="left">Director</div>
-            </td>
-            <td class="aboutName" valign="top" width="75%">
-            <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                <tbody>
-                    <tr>
-                        <td>
-                        <p><strong>IMBA is the International, Innovative, and Impact MBA Program. IMBA focuses specifically on giving the tools to students to be CHANGE MAKERS, in their existing company, family business, new venture, community or their country.</strong></p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        <p>IMBA’s curriculum has been designed from the ground up, to enable students to have the necessary tools to compete in today’s business world where the pace of innovation is increasing; there are lower entry barriers, with competitors coming from everywhere in the world; and Asia is increasingly the center of the world’s business.</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        <p>IMBA has been designed to develop the skills, mindset, and confidence to be a CHANGE MAKER or somebody who sees the opportunity of competition through Innovation; who wants to be a leader, not just within Thailand, but also in International markets, too; and who wants his or her impact to be felt in society, or in the environment.</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        <p>IMBA’s first-year core courses focus in general business studies, such as marketing, management, finance, and strategy to enable students; and by the second year of the program, students explore the challenges and opportunities that come from International, Innovation, or Impact. For all courses, IMBA focuses on moving into action. Students are forced to interact with the marketplace, with customers, with suppliers, with big companies.</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        <p>IMBA is run in partnership with Shanghai University of Finance and Economics, the Graduate School of Commerce and Management at Hitotsubashi University in Tokyo, Technology Venture Program at Stanford University , the Green MBA at Dominican University and the Lester Center of Entrepreneurship at the University of California at Berkeley in USA. </p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        <p>IMBA is a two-year part-time program, studied at Thammasat University, Tha Prachan Campus.</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><br />
-                        <br />
-                        &nbsp;</td>
-                    </tr>
-                </tbody>
-            </table>
-            </td>
-        </tr>
-    </tbody>
-</table>
-                        </td>
-                   </tr>
-                     </table>
-                <br>
-              </div>
-              <div id="footer"><? include "footer.txt";?></div>
-            </div>
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
+		<div id="carousel">
+			<img src="images/p1/carousel/aboutimba.jpg">
+		</div>
+		
+		<div class="container">
+			<div class="content">
+				<div class="rows">
+					<div class="col-100">	
+						<h2>ABOUT IMBA</h2>
+						<hr>
+					</div>
+				</div>
+				
+				<div class="rows">
+					<div class="col-100">	
+						<div class="text-description-1">
+							IMBA is the International, Innovative, and Impact MBA Program. 
+							IMBA focuses specifically on giving the tools to students to be CHANGE MAKERS, 
+							in their existing company, family business, new venture, community or their country.
+						</div>
+					</div>
+				</div>
+				
+				<div class="rows">
+					<div class="col-100">	
+						<div class="text-description-2">
+							A Change Maker is a new kind of entrepreneur, with some very special characteristics, 
+							which set him or her apart. Change Makers don’t only start companies. 
+							They work in existing companies, too. And the government. And universities. 
+							And non-profit organizations. And yes, they may also start companies, 
+							in order to fulfill their dreams.
+						</div>
+					</div>
+				</div>
+				
+				<hr>
+				
+				<div class="rows">
+					<div class="col-32 left-inline-block">	
+						<div class="about-box">
+							<div class="about-box-text-image">
+								<img src="images/p1/about/international.png">
+							</div>
+							<div class="about-box-text-header">
+								INTERNATIONAL
+							</div>
+							<div class="about-box-text-content">
+								A Change Maker looks for opportunities that are bigger, to be a leader in the region, 
+								or ultimately, even on the Global Stage.
+							</div>
+						</div>
+					</div>
+					
+					<div class="span-2 left-inline-block"></div>
+					
+					<div class="col-32 left-inline-block">	
+						<div class="about-box">
+							<div class="about-box-text-image">
+								<img src="images/p1/about/innovation.png">
+							</div>
+							<div class="about-box-text-header">
+								INNOVATION
+							</div>
+							<div class="about-box-text-content">
+								IMBA’s Change Makers seek opportunities from technology, new business models, 
+								or other innovations, which change the way business is run.
+							</div>
+						</div>
+					</div>
+					
+					<div class="span-2 left-inline-block"></div>
+					
+					<div class="col-32 left-inline-block">	
+						<div class="about-box">
+							<div class="about-box-text-image">
+								<img src="images/p1/about/impact.png">
+							</div>
+							<div class="about-box-text-header">
+								IMPACT
+							</div>
+							<div class="about-box-text-content">
+								The ultimate goal for someone seeking a Big Opportunity is Impact: 
+								doing something good for Society, the Environment, 
+								or building some other form of sustainable business.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+				<hr>
+				
+				<div class="rows">
+					<div class="col-35 left-inline-block">
+						<img src="images/p1/about/imba-program.jpg">
+					</div>
+					
+					<div class="span-3 left-inline-block"></div>
+					
+					<div class="col-62 left-inline-block">
+						<div class="text-content-header">
+							What makes IMBA different from other programs?
+						</div>
+						<div class="text-content">
+							<ul>
+								<li>
+									Our program looks like a “T”.<br>
+									1) The top part of the T is the first year, where we have students learn a range of business skills and seek ideas which lead to International-Innovative-high Impact opportunities.<br>
+									2) The vertical part of the T represents most of the second year, where students develop ideas into opportunities, find customers, and come up with a workable business plan that they must defend in front of an investment committee.
+								</li>
+								<br>
+								<li>Focus on changing entrepreneurship in Thailand by getting students to think bigger.</li>
+								<li>Focus on action: students are forced to interact with the marketplace, customers, suppliers, and big companies, all to build confidence and motivation.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+				<hr>
+				
+				<div class="rows">
+					<div class="col-62 left-inline-block">
+						<div class="text-content-header">
+							Where will students go for their business trip? When is that?
+						</div>
+						<div class="text-content">
+							The standard business trip is to Silicon Valley, the world’s hotbed of entrepreneurship and 
+							innovation on the second semester of the first year. If there is a minimum of 10 students 
+							interested in a particular country, we will set up a substitute trip for those students, 
+							with one of our partner institutions.
+						</div>
+					</div>
+					
+					<div class="span-3 left-inline-block"></div>
+					
+					<div class="col-35 left-inline-block">
+						<img src="images/p1/about/imba-business-trip.jpg">
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+				<hr>
+				
+				<div class="rows">
+					<div class="col-35 left-inline-block">
+						<img src="images/p1/about/imba-links.jpg">
+					</div>
+					
+					<div class="span-3 left-inline-block"></div>
+					
+					<div class="col-62 left-inline-block">
+						<div class="text-content-header">
+							IMBA has links with many institutes. What does this mean?
+						</div>
+						<div class="text-content">
+							<ul>
+								<li>
+									 Every link is an opportunity, but not every link offers the same opportunities:<br>
+									 - To study on exchange.<br>
+									 - To co-host a business plan competition.<br>
+									 - To learn from instructors from that linked institution.<br>
+									 - To go to a seminar or special program at that institution.<br>
+
+								</li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="clear"></div>
+				<hr>
+				
+				<div class="rows">
+					<div class="col-100">	
+						<div class="text-content-header">
+							How much does it cost?
+						</div>
+						<div class="text-content">
+							The tuition of the IMBA Program is approximately THB 490,000 for Thai citizens, 
+							and THB 570,000 for non-Thais, which includes course fees, textbooks, computer services, 
+							and the Orientation and Pre-Course program. The Innovation Deep Dive, a required study trip,
+							is not included in the tuition and costs approximately THB 200,000.
+						</div>
+					</div>
+				</div>
+				
+				<div style="padding-bottom: 45px;" class="clear"></div>
+				
+			</div>
+		</div>
+<?php require("include/footer.php");?>

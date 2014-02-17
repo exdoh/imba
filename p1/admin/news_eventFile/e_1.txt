@@ -1,0 +1,12 @@
+<ul>
+    <li><span style="font-family: Verdana;">&nbsp;Learn about Thailand's most innovative business program.</span></li>
+    <li><span style="font-family: Verdana;">Meet IMBA students and see the real projects that they are running.</span></li>
+    <li><span style="font-family: Verdana;">Meet successful alumni who have launched start-ups or changed their companies and their communities.</span></li>
+    <li><span style="font-family: Verdana;">Find out it IMBA can help Lanuch the Change Maker in You.<br type="_moz" />
+    </span></li>
+</ul>
+<p><span style="font-family: Verdana;"><strong>IMBA Open House</strong></span></p>
+<p><span style="font-family: Verdana;">Date : November 17th, 2013</span></p>
+<p><span style="font-family: Verdana;">Time : 13:00 - 16:00 hrs.</span></p>
+<p><span style="font-family: Verdana;">Place : The Campus, Grand Hyatt Erawan Bangkok</span></p>
+<p>&nbsp;</p>
