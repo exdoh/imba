@@ -1,0 +1,6 @@
+10:42:07 []  Can not connected DataBase[Server name : localhost | username : root]
+10:42:07 []  Can not select DB Name[imba]
+10:42:07 []  SELECT * FROM news order by news_id desc
+10:42:07 []  Can not connected DataBase[Server name : localhost | username : root]
+10:42:07 []  Can not select DB Name[imba]
+10:42:07 []  SELECT * FROM events order by events_id desc

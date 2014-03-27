@@ -107,7 +107,7 @@
 								<div class="even-odd-text left-inline-block text-credit">April 25,  2014</div>
 							</div>
 							<div class="even">
-								<div class="even-odd-text left-inline-block font-bold deadline">Announcement of CandidateThammasat Business School's International Graduate Program Admission Tests Eligible for Interview</div>
+								<div class="even-odd-text left-inline-block font-bold deadline">Thammasat Business School's International Graduate Program Admission Test</div>
 								<div class="even-odd-text left-inline-block text-credit">April 27,  2014</div>
 							</div>
 							<div class="odd">
