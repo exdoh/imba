@@ -1,0 +1,151 @@
+<div class="rows">
+    <div class="col-100">
+        <h2>ADMISSIONS</h2>
+        <hr />
+    </div>
+</div>
+<div class="rows">
+    <div class="col-100">
+    <div class="text-description-1">Want to apply to IMBA? We will want to know that you can succeed in the IMBA Program and afterward. You can demonstrate your potential as a Change Maker through your:</div>
+    </div>
+</div>
+<div class="rows">
+    <div class="col-22 left-inline-block"><img src="images/p1/admissions/1-educational-background.png" alt="" /></div>
+    <div class="span-4 left-inline-block">&nbsp;</div>
+    <div class="col-22 left-inline-block"><img src="images/p1/admissions/2-work-experience.png" alt="" /></div>
+    <div class="span-4 left-inline-block">&nbsp;</div>
+    <div class="col-22 left-inline-block"><img src="images/p1/admissions/3-test-scores.png" alt="" /></div>
+    <div class="span-4 left-inline-block">&nbsp;</div>
+    <div class="col-22 left-inline-block"><img src="images/p1/admissions/4-essays-interviews.png" alt="" /></div>
+</div>
+<div class="clear">&nbsp;</div>
+<hr />
+<div class="rows">
+    <div class="col-100">
+        <div class="text-content-header">Admission Requirements</div>
+        <div class="text-content">
+            <div style="margin-bottom: 16px;">Most applicants exceed in one or more of our minimum requirements:</div>
+            <ul style="padding-left: 18px;">
+                <li>A Bachelor&rsquo;s Degree in any field</li>
+                <li>One year of working experience</li>
+                <li>Proof of English proficiency<br />
+                    - TU-GET (550 or above)<br />
+                    - TOEFL (Paper-based test: 550 or above, Computer-based test: 213 or above, or Internet-based test: 79 or above)<br />
+                    - IELTS (6.0 or above)</li>
+                    <li>Proof of analytical ability<br />
+                        - Passing Thammasat Business School&rsquo;s International Graduate Program Admission Test<br />
+                        - GMAT (at least 80% on the quantitative part)</li>
+                        <li>Demonstration of creative thinking and leadership potential</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="rows">
+            <div class="col-100">
+                <div class="text-content-header">Dates &amp; Deadlines</div>
+                <div class="text-content">
+                    <div class="even">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Application Filing Period</div>
+                        <div class="even-odd-text left-inline-block">February 1 - April  20, 2014</div>
+                    </div>
+                    <div class="odd">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Candidates Eligible for the Admission Test</div>
+                        <div class="even-odd-text left-inline-block text-credit">April 25,  2014</div>
+                    </div>
+                    <div class="even">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Thammasat Business School's International Graduate Program Admission Test</div>
+                        <div class="even-odd-text left-inline-block text-credit">April 26,  2014</div>
+                    </div>
+                    <div class="odd">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Candidates Eligible for Interview</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 8, 2014</div>
+                    </div>
+                    <div class="even">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Interview Examination</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 10, 2014</div>
+                    </div>
+                    <div class="odd">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Successful Candidates</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 15, 2014</div>
+                    </div>
+                    <div class="even">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Program Registration</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 19-21, 2014</div>
+                    </div>
+                    <div class="odd">
+                        <div class="even-odd-text left-inline-block font-bold deadline">Pre-course Begins</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 2014</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="rows">
+            <div class="col-100">
+                <div class="text-content-header">Application Process</div>
+                <div class="text-content">The IMBA application forms are available through the website <a href="http://gradreg.bus.tu.ac.th" target="_blank">http://gradreg.bus.tu.ac.th</a> only. Any candidate who wishes to apply for the IMBA program must follow the steps below:  							<br />
+                    <br />
+                    1.    Fill in the application form and submit it online.<br />
+                    2.    Send required documents to the IMBA Office by post or by hand  							(See &ldquo;Required Documents&rdquo;).<br />
+                    <br />
+                    IMBA will announce candidates eligible for interview on the IMBA website <a href="http://imba.bus.tu.ac.th" target="_blank">http://imba.bus.tu.ac.th</a> on May 8, 2014. Interviews are conducted on May 10, 2014 by the IMBA admission committee and alumni recruiting team.</div>
+                </div>
+            </div>
+            <hr />
+            <div class="rows">
+                <div class="col-100">
+                    <div class="text-content-header">Required Documents</div>
+                    <div class="text-content">The following documents must be received by the IMBA Office no later than April 27, 2014. 	
+                    <br />
+                    <br>
+                    IMBA Office, Faculty of Commerce and Accountancy  <br>
+                    Thammasat University, Thaprachan Campus, 2 Prachan Rd., Pranakorn, Bangkok, 10200, Thailand
+                        <br>
+                        <br />
+                        <div class="font-bold">1.	Undergraduate Record</div>
+                        Provide final transcripts of record verifying that they have received an undergraduate  							degree from a certified institution. Photocopy submissions must be signed and certified.  							Four copies are required. 							<br />
+                        <br />
+                        <div class="font-bold">2.	Citizen Identification Card (for Thais) or Passport (for foreigners)</div>
+                        Four copies are required, signed and certified by you. 							<br />
+                        <br />
+                        <div class="font-bold">3.	Photographs</div>
+                        Four 4 x 5 cm. recent photographs (less than six months)  							are required for student records and filing.  							<br />
+                        <br />
+                        <div class="font-bold">4.	Proof of English Proficiency</div>
+                        Provide either of the following test scores taken within the last two years:<br />
+                        - TU-GET: Minimum scores of 550<br />
+                        - TOEFL: Minimum scores of 550 for paper-based test, 213 for computer-based test, or 79 for internet-based test<br />
+                        - IELTS: Minimum scores of 6.0<br />
+                        <br />
+                        *For more information on TU-GET, please contact the Language Institute of Thammasat University at T.  (66) 2 223 3758-9.  							<br />
+                        <br />
+                        <div class="font-bold">5. Proof of Analytical Ability </div>
+                        - Passing Thammasat Business School’s International Graduate Program Admission Test<br>
+                        - GMAT (if applicable): At least 80% on the quantitative part, taken within the last 5 years
+                        <br>
+                        <br />
+                        <div class="font-bold">6.	Proof of Employment</div>
+                        Applicants must have at least 1 year of working experience after receiving their Bachelor’s Degree. A sample can be downloaded via the link below. 
+                        <br />
+                        <a href="http://imba.bus.tu.ac.th/imba/admin/userfiles/file/Admission/Proof of Employment(1).pdf" target="_blank" id="download-button">
+                            <div id="download-button">&nbsp;</div>
+                        </a>  							<br />
+                        <div class="font-bold">7.	Letters of Recommendation</div>
+                        Two letters of recommendation from somebody who knows your academic and  							professional potential must be handed to the staff in front of the interview room on May 10, 2014.  							<a href="http://imba.bus.tu.ac.th/imba/admin/userfiles/file/Admission/CONFIDENTIAL LETTER OF RECOMMENDATION(1).pdf" target="_blank" id="download-button">
+                        <div id="download-button">&nbsp;</div>
+                    </a>
+                    <br>
+
+                    <div class="font-bold">For more information, please contact:</div>
+                    IMBA Program Office<br>
+                    Faculty of Commerce and Accountancy, Thammasat University<br>
+                    T. (66) 2 613 2192, (66) 2 613 2194<br>
+                    F. (66) 2 224 8107<br>
+                    E. <a href="mailto:imba@tbs.tu.ac.th">imba@tbs.tu.ac.th</a>
+
+                    </div>
+
+                </div>
+            </div>
+            <div style="padding-bottom: 45px;" class="clear">&nbsp;</div>
