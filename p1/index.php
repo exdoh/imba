@@ -50,11 +50,22 @@
 			                $co_n  = count($obj_n);
 		                ?>
 		                <?php for($i=0;$i<$co_n;$i++){ ?>
+
+		                <!--Admission Schedule for Academic Year 2014 Second Round-->
+		                <?php if($obj_n[$i]->id == 86){ ?>
+		                <div class="rows-news-events">
+							<div class="bullet"><img src="images/bullet.jpg"></div>
+							<div class="name-news-events"><a href="http://imba.bus.tu.ac.th/imba/admissions.php"><?php echo $obj_n[$i]->topic;?></a></div>
+						</div>
+		               <?php } else {?>						
+		               	<!--Admission Schedule for Academic Year 2014 Second Round-->
+						
 						<div class="rows-news-events">
 							<div class="bullet"><img src="images/bullet.jpg"></div>
 							<div class="name-news-events"><a href="newsEvents.php?type=1&id=<?php echo $obj_n[$i]->id;?>"><?php echo $obj_n[$i]->topic;?></a></div>
 						</div>
-						<?php } ?>						
+
+						<?php } } ?>						
 					</div>
 					
 					<div class="span-4 left-inline-block"></div>
