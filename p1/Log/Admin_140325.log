@@ -1,0 +1,139 @@
+00:12:46 []  SELECT * FROM news order by news_id desc
+00:23:42 []  SELECT * FROM news order by news_id desc
+00:23:42 []  SELECT * FROM events order by events_id desc
+00:23:47 []  SELECT * FROM news order by news_id desc
+00:23:47 []  SELECT * FROM events order by events_id desc
+01:04:20 []  SELECT * FROM news order by news_id desc
+01:04:20 []  SELECT * FROM events order by events_id desc
+01:04:36 []  SELECT * FROM news order by news_id desc
+01:27:53 []  SELECT * FROM news order by news_id desc
+01:27:53 []  SELECT * FROM events order by events_id desc
+01:27:59 []  SELECT * FROM news order by news_id desc
+01:27:59 []  SELECT * FROM events order by events_id desc
+01:36:18 []  SELECT * FROM news order by news_id desc
+01:36:18 []  SELECT * FROM events order by events_id desc
+02:07:34 []  SELECT * FROM news order by news_id desc
+02:07:34 []  SELECT * FROM events order by events_id desc
+02:18:32 []  SELECT * FROM news order by news_id desc
+02:18:32 []  SELECT * FROM events order by events_id desc
+02:18:52 []  SELECT * FROM news order by news_id desc
+02:22:29 []  SELECT * FROM news order by news_id desc
+02:22:29 []  SELECT * FROM events order by events_id desc
+05:01:30 []  SELECT * FROM news order by news_id desc
+05:01:30 []  SELECT * FROM events order by events_id desc
+05:01:31 []  SELECT * FROM news order by news_id desc
+05:01:31 []  SELECT * FROM events order by events_id desc
+05:22:38 []  SELECT * FROM news order by news_id desc
+07:42:13 []  SELECT * FROM professor where (type_id=0) and (firstname like 'g%' or firstname like 'h%' or firstname like 'i%' or firstname like 'j%' or firstname like 'k%' or firstname like 'l%') order by firstname asc
+08:38:47 []  SELECT * FROM news order by news_id desc
+08:38:47 []  SELECT * FROM events order by events_id desc
+08:40:38 []  SELECT * FROM news order by news_id desc
+08:40:38 []  SELECT * FROM events order by events_id desc
+09:09:09 []  SELECT * FROM news order by news_id desc
+09:09:09 []  SELECT * FROM events order by events_id desc
+09:20:34 []  SELECT * FROM news order by news_id desc
+09:20:34 []  SELECT * FROM events order by events_id desc
+10:34:49 []  SELECT * FROM news order by news_id desc
+10:34:49 []  SELECT * FROM events order by events_id desc
+10:36:35 []  SELECT * FROM news order by news_id desc
+10:36:35 []  SELECT * FROM events order by events_id desc
+11:30:36 []  SELECT * FROM news order by news_id desc
+11:30:36 []  SELECT * FROM events order by events_id desc
+11:30:47 []  SELECT * FROM news order by news_id desc
+11:30:47 []  SELECT * FROM events order by events_id desc
+11:53:14 []  SELECT * FROM news order by news_id desc
+11:53:14 []  SELECT * FROM events order by events_id desc
+11:54:04 []  SELECT * FROM news order by news_id desc
+11:54:04 []  SELECT * FROM events order by events_id desc
+12:11:17 []  SELECT * FROM news order by news_id desc
+12:11:18 []  SELECT * FROM events order by events_id desc
+12:38:36 []  SELECT * FROM news order by news_id desc
+12:38:36 []  SELECT * FROM events order by events_id desc
+12:38:46 []  SELECT * FROM news order by news_id desc
+12:47:40 []  SELECT * FROM news order by news_id desc
+12:47:40 []  SELECT * FROM events order by events_id desc
+13:10:22 []  SELECT * FROM professor where (type_id=0) and (firstname like 'g%' or firstname like 'h%' or firstname like 'i%' or firstname like 'j%' or firstname like 'k%' or firstname like 'l%') order by firstname asc
+13:30:19 []  SELECT * FROM professor where (type_id=0) and (firstname like 'a%' or firstname like 'b%' or firstname like 'c%' or firstname like 'd%' or firstname like 'e%' or firstname like 'f%') order by firstname asc
+13:30:45 []  SELECT * FROM news order by news_id desc
+13:30:45 []  SELECT * FROM events order by events_id desc
+13:32:52 []  SELECT * FROM news order by news_id desc
+13:32:52 []  SELECT * FROM events order by events_id desc
+13:33:37 []  SELECT * FROM news order by news_id desc
+13:33:37 []  SELECT * FROM events order by events_id desc
+13:55:00 []  SELECT * FROM professor where type_id=1 order by firstname asc
+14:11:32 []  SELECT * FROM news order by news_id desc
+14:11:32 []  SELECT * FROM events order by events_id desc
+14:34:02 []  SELECT * FROM news order by news_id desc
+14:34:02 []  SELECT * FROM events order by events_id desc
+15:12:37 []  SELECT * FROM news order by news_id desc
+15:33:53 []  SELECT * FROM news order by news_id desc
+16:06:48 []  SELECT * FROM news order by news_id desc
+16:07:43 []  SELECT * FROM news order by news_id desc
+16:07:43 []  SELECT * FROM events order by events_id desc
+16:22:07 []  SELECT * FROM news order by news_id desc
+16:22:07 []  SELECT * FROM events order by events_id desc
+16:25:18 []  SELECT * FROM news order by news_id desc
+16:25:18 []  SELECT * FROM events order by events_id desc
+16:52:55 []  SELECT * FROM professor where (type_id=0) and (firstname like 'm%' or firstname like 'n%' or firstname like 'o%' or firstname like 'p%' or firstname like 'q%' or firstname like 'r%') order by firstname asc
+16:58:42 []  SELECT * FROM news order by news_id desc
+16:58:42 []  SELECT * FROM events order by events_id desc
+16:58:43 []  SELECT * FROM news order by news_id desc
+16:58:43 []  SELECT * FROM events order by events_id desc
+17:16:17 []  SELECT * FROM news order by news_id desc
+17:16:17 []  SELECT * FROM events order by events_id desc
+17:27:15 []  SELECT * FROM news order by news_id desc
+17:27:16 []  SELECT * FROM events order by events_id desc
+17:30:42 []  SELECT * FROM news order by news_id desc
+17:30:42 []  SELECT * FROM events order by events_id desc
+17:51:31 []  SELECT * FROM news order by news_id desc
+17:51:31 []  SELECT * FROM events order by events_id desc
+17:51:42 []  SELECT * FROM events order by events_id desc
+18:02:29 []  SELECT * FROM news order by news_id desc
+18:02:29 []  SELECT * FROM events order by events_id desc
+18:08:24 []  SELECT * FROM news order by news_id desc
+18:08:24 []  SELECT * FROM events order by events_id desc
+18:32:37 []  SELECT * FROM news order by news_id desc
+19:05:51 []  SELECT * FROM news order by news_id desc
+19:05:51 []  SELECT * FROM events order by events_id desc
+19:20:36 []  SELECT * FROM professor where (type_id=0) and (firstname like 's%' or firstname like 't%' or firstname like 'u%' or firstname like 'v%' or firstname like 'w%' or firstname like 'x%' or firstname like 'y%' or firstname like 'z%') order by firstname asc
+19:23:14 []  SELECT * FROM professor where type_id=1 order by firstname asc
+19:32:40 []  SELECT * FROM news order by news_id desc
+19:33:14 []  SELECT * FROM professor where (type_id=0) and (firstname like 's%' or firstname like 't%' or firstname like 'u%' or firstname like 'v%' or firstname like 'w%' or firstname like 'x%' or firstname like 'y%' or firstname like 'z%') order by firstname asc
+19:40:56 []  SELECT * FROM news order by news_id desc
+19:40:56 []  SELECT * FROM events order by events_id desc
+19:50:38 []  SELECT * FROM news order by news_id desc
+20:14:29 []  SELECT * FROM news order by news_id desc
+20:14:29 []  SELECT * FROM events order by events_id desc
+20:18:48 []  SELECT * FROM news order by news_id desc
+20:18:48 []  SELECT * FROM events order by events_id desc
+20:19:29 []  SELECT * FROM news order by news_id desc
+20:19:29 []  SELECT * FROM events order by events_id desc
+20:29:54 []  SELECT * FROM news order by news_id desc
+20:29:54 []  SELECT * FROM events order by events_id desc
+20:29:54 []  SELECT * FROM news order by news_id desc
+20:29:54 []  SELECT * FROM news order by news_id desc
+20:52:35 []  SELECT * FROM news order by news_id desc
+20:52:35 []  SELECT * FROM events order by events_id desc
+21:09:38 []  INSERT INTO contact(name,email,phone,address,msg,subject)VALUES ('Chayuth Taosaimon','chayuth100@hotmail.com','0879100306','3/886 Soi.Phaholyothin 50, Phaholyothin road, Bangkhen, Bangkok Thailand, 10220','I\'m interesting in IMBA, so i would like to know more detail about official degree name, class time, & so on. 
+
+Btw, in case student cannot join business trip in 2nd semester as he/she just changed their job(can not take annual leave 2 weeks in first year), they can join the travel in 2nd year ?
+
+
+Thank you.','Request a Brochure')
+21:09:41 []  SELECT * FROM news order by news_id desc
+21:09:41 []  SELECT * FROM events order by events_id desc
+21:10:30 []  SELECT * FROM news order by news_id desc
+21:53:28 []  SELECT * FROM news order by news_id desc
+22:03:52 []  SELECT * FROM news order by news_id desc
+22:03:52 []  SELECT * FROM events order by events_id desc
+22:30:11 []  SELECT * FROM news order by news_id desc
+22:30:11 []  SELECT * FROM events order by events_id desc
+22:37:52 []  SELECT * FROM news order by news_id desc
+22:37:52 []  SELECT * FROM events order by events_id desc
+22:47:29 []  SELECT * FROM news order by news_id desc
+22:47:29 []  SELECT * FROM events order by events_id desc
+22:53:30 []  INSERT INTO contact(name,email,phone,address,msg,subject)VALUES ('Sufiyan Farrukh','sufian.farrukh@gmail.com','','','I am interested in this MBA program, kindly brief me about the scholarship for international students and part time work permit ','General Enquiries')
+22:53:35 []  SELECT * FROM news order by news_id desc
+22:53:35 []  SELECT * FROM events order by events_id desc
+23:14:43 []  SELECT * FROM news order by news_id desc
+23:14:43 []  SELECT * FROM events order by events_id desc

@@ -1,5 +1,6 @@
 @font-face { font-family: "Oswald regular"; src: url(../fonts/Oswald-Regular.eot); src: url(../fonts/Oswald-Regular.eot) format("embedded-opentype"), url(../fonts/Oswald-Regular.woff) format("woff"), url(../fonts/Oswald-Regular.ttf) format("truetype"), url(../font/Oswald-Regular.svg) format("svg"); }
 @font-face { font-family: "tex gyre heros regular"; src: url(../fonts/texgyreheros-regular.eot); src: url(../fonts/texgyreheros-regular.eot) format("embedded-opentype"), url(../fonts/texgyreheros-regular.woff) format("woff"), url(../fonts/texgyreheros-regular.ttf) format("truetype"), url(../font/texgyreheros-regular.svg) format("svg"); }
+@font-face { font-family: "OpenSans Regular"; src: url(../fonts/OpenSans-Regular.eot); src: url(../fonts/OpenSans-Regular.eot) format("embedded-opentype"), url(../fonts/OpenSans-Regular.woff) format("woff"), url(../fonts/OpenSans-Regular.ttf) format("truetype"), url(../font/OpenSans-Regular.svg) format("svg"); }
 @font-face { font-family: "OpenSans Light"; src: url(../fonts/OpenSans-Light.eot); src: url(../fonts/OpenSans-Light.eot) format("embedded-opentype"), url(../fonts/OpenSans-Light.woff) format("woff"), url(../fonts/OpenSans-Light.ttf) format("truetype"), url(../font/OpenSans-Light.svg) format("svg"); }
 @font-face { font-family: "HelveticaNeue Roman"; src: url(../fonts/HelveticaNeue-Roman.eot); src: url(../fonts/HelveticaNeue-Roman.eot) format("embedded-opentype"), url(../fonts/HelveticaNeue-Roman.woff) format("woff"), url(../fonts/HelveticaNeue-Roman.ttf) format("truetype"), url(../font/HelveticaNeue-Roman.svg) format("svg"); }
 
@@ -77,7 +78,7 @@ body {margin: 0;}
 .about-box-text-header {font-family: "Oswald regular"; font-size: 18px; color: #4d4d4d; text-align: center;}
 .about-box-text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #727272; padding: 10px 24px 0;}
 
-.text-content-header {font-family: "OpenSans Light"; font-size: 20px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
+.text-content-header {font-family: "OpenSans Regular"; font-size: 21px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
 .text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
 .text-content a {text-decoration:none; color: #4d4d4d; cursor: pointer;}
 .text-content a:hover {color: #9dc427;}
