@@ -9,9 +9,30 @@
 	    </footer>
   	  </div>
   	  
-  	  <script src="JScript/Jquery/jquery-2.0.3.min.js"></script>
+  	  
+  </body>
+
+
+
+</html>
+
+
+<script src="JScript/Jquery/jquery-1.11.0.min.js"></script>
   	  
   	  <script type="text/javascript">
+
+  	  		function isIE( version, comparison ){
+			    var $div = $('<div style="display:none;"/>').appendTo($('body'));
+			    $div.html('<!--[if '+(comparison||'')+' IE '+(version||'')+']><a>&nbsp;</a><![endif]-->');
+			    var ieTest = $div.find('a').length;
+			    $div.remove();
+			    return ieTest;
+			}
+
+			$(document).ready(function(){
+				if(isIE(8)){ $('#popup-browser').show(); }
+			});
+			
 			function action_click(name,status)
 			{
 				if(status == 0)
@@ -26,5 +47,3 @@
 				}
 			}
 		</script>
-  </body>
-</html>

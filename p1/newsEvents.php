@@ -35,7 +35,7 @@
 			<img src="images/p1/carousel/newsevents.jpg">
 		</div>
 		<div class="container">
-			<div class="content">
+			<div id="new-event" class="content">
 				<h2><?php echo $obj[$arr_index]->topic;?></h2>
 				<div><?php include $admin_folder.$news_folder.$obj[$arr_index]->file_path;?></div>
 			</div>

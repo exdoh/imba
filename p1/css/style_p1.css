@@ -15,6 +15,8 @@ body {margin: 0;}
 
 #banner { background: #000; height: 100px;}
 
+#popup-browser {}
+
 #logo-imba {float: left; display: inline-block; background-image: url("../images/p1/imba.png"); width: 192px; height: 65px; margin: 18px 94px;}
 #logo-TU {float: right; background-image: url("../images/p1/Thammasat-Business-School.jpg"); width: 60px; height: 65px; margin: 18px 94px;}
 
@@ -66,12 +68,12 @@ body {margin: 0;}
 
 .rows-news-events {margin-bottom: 4px;}
 .bullet {display:inline-block; vertical-align: top;}
-.name-news-events {font-family: "HelveticaNeue Roman"; font-size: 14px; display:inline-block; width: 400px; padding: 3px 8px;}
+.name-news-events {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; display:inline-block; width: 400px; padding: 3px 8px; font-weight: 200;}
 .name-news-events a {text-decoration:none; color: #4d4d4d;}
 .name-news-events a:hover {color: black;}
 
 .text-description-1 {font-family: "OpenSans Light"; font-size: 21px; color: #4d4d4d;}
-.text-description-2 {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
+.text-description-2 {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200; color: #4d4d4d; line-height: 20px;}
 
 .about-box {background: white; width: 320px; height: 370px;}
 .about-box-text-image {padding: 22px 0 16px; text-align: center;}
@@ -79,7 +81,7 @@ body {margin: 0;}
 .about-box-text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #727272; padding: 10px 24px 0;}
 
 .text-content-header {font-family: "OpenSans Regular"; font-size: 21px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
-.text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
+.text-content {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200; color: #4d4d4d; line-height: 20px;}
 .text-content a {text-decoration:none; color: #4d4d4d; cursor: pointer;}
 .text-content a:hover {color: #9dc427;}
 .text-content-green {font-family: "tex gyre heros regular"; font-size: 14px; color: #62bd19;}
@@ -110,3 +112,5 @@ footer {background:#000; height: 44px;}
 
 #admissions a {color: #62bd19;}
 
+#new-event {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200;}
+#new-event h2 {padding-top: 36px;}
