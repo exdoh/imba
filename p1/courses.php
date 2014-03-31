@@ -24,7 +24,7 @@
 		<div class="container">
 			<div class="content">
 				
-				<? include $admin_folder.$content_folder."global_a.txt";?>	
+				<?php include $admin_folder.$content_folder."global_a.txt";?>	
 				
 			</div>
 		</div>

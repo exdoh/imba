@@ -23,3 +23,5 @@
 08:30:51 []  SELECT * FROM events order by events_id desc
 08:40:43 []  SELECT * FROM news order by news_id desc
 08:40:43 []  SELECT * FROM events order by events_id desc
+20:19:44 []  SELECT * FROM news order by news_id desc
+20:19:44 []  SELECT * FROM events order by events_id desc

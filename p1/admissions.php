@@ -24,7 +24,7 @@
 		<div id="admissions" class="container">
 			<div class="content">
 				
-				<? include $admin_folder.$content_folder."admission.txt";?>
+				<?php include $admin_folder.$content_folder."admission.txt";?>
 				
 			</div>
 		</div>
