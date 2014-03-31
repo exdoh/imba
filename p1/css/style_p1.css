@@ -25,7 +25,7 @@ body {margin: 0;}
 #carousel { height: 326px; background: black;}
 #carousel img {margin-left: 100px;}
 
-.container {min-height: 312px; background: #e6e6e6;}
+.container {min-height: 312px; background: #e6e6e6; font-family: "Oswald regular";}
 .container h1 {font-size: 34px;}
 .container h2 {font-size: 27px;}
 .container h3 {font-size: 21px;}
