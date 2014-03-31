@@ -11,7 +11,7 @@
 	
 	<!-- style CSS -->
 	<link href="css/style_p1.css" rel="stylesheet">
-	
+
 	<!--[if gte IE 8]>
 	<style type='text/css'>
 		.col-contact-2 select {width: 470px;
@@ -38,6 +38,7 @@
   <body>
   	<div id="wrap">
 		<header>
+		    <div id="popup-browser" style="display: none;">xxx</div>
 			<div id="banner">
 				<a href="index.php"><div id="logo-imba"></div></a>
 				<div id="logo-TU"></div>

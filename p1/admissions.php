@@ -21,7 +21,7 @@
 			<img src="images/p1/carousel/admissions.jpg">
 		</div>
 		
-		<div class="container">
+		<div id="admissions" class="container">
 			<div class="content">
 				
 				<? include $admin_folder.$content_folder."admission.txt";?>

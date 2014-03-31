@@ -1,5 +1,6 @@
 @font-face { font-family: "Oswald regular"; src: url(../fonts/Oswald-Regular.eot); src: url(../fonts/Oswald-Regular.eot) format("embedded-opentype"), url(../fonts/Oswald-Regular.woff) format("woff"), url(../fonts/Oswald-Regular.ttf) format("truetype"), url(../font/Oswald-Regular.svg) format("svg"); }
 @font-face { font-family: "tex gyre heros regular"; src: url(../fonts/texgyreheros-regular.eot); src: url(../fonts/texgyreheros-regular.eot) format("embedded-opentype"), url(../fonts/texgyreheros-regular.woff) format("woff"), url(../fonts/texgyreheros-regular.ttf) format("truetype"), url(../font/texgyreheros-regular.svg) format("svg"); }
+@font-face { font-family: "OpenSans Regular"; src: url(../fonts/OpenSans-Regular.eot); src: url(../fonts/OpenSans-Regular.eot) format("embedded-opentype"), url(../fonts/OpenSans-Regular.woff) format("woff"), url(../fonts/OpenSans-Regular.ttf) format("truetype"), url(../font/OpenSans-Regular.svg) format("svg"); }
 @font-face { font-family: "OpenSans Light"; src: url(../fonts/OpenSans-Light.eot); src: url(../fonts/OpenSans-Light.eot) format("embedded-opentype"), url(../fonts/OpenSans-Light.woff) format("woff"), url(../fonts/OpenSans-Light.ttf) format("truetype"), url(../font/OpenSans-Light.svg) format("svg"); }
 @font-face { font-family: "HelveticaNeue Roman"; src: url(../fonts/HelveticaNeue-Roman.eot); src: url(../fonts/HelveticaNeue-Roman.eot) format("embedded-opentype"), url(../fonts/HelveticaNeue-Roman.woff) format("woff"), url(../fonts/HelveticaNeue-Roman.ttf) format("truetype"), url(../font/HelveticaNeue-Roman.svg) format("svg"); }
 
@@ -10,9 +11,11 @@ body {margin: 0;}
 .left-inline-block {float: left; display: inline-block;}
 .right-inline-block {float: right; display: inline-block;}
 
-#wrap {width: 1200px; margin: 0 auto;}
+#wrap {min-width: 1200px; margin: 0 auto;}
 
 #banner { background: #000; height: 100px;}
+
+#popup-browser {}
 
 #logo-imba {float: left; display: inline-block; background-image: url("../images/p1/imba.png"); width: 192px; height: 65px; margin: 18px 94px;}
 #logo-TU {float: right; background-image: url("../images/p1/Thammasat-Business-School.jpg"); width: 60px; height: 65px; margin: 18px 94px;}
@@ -21,9 +24,10 @@ body {margin: 0;}
 #menu ul {margin-top: 8px;}
 #menu li {display: inline-block; margin-left: 54px; font-size: 14px; margin-right: 82px; font-family: "Oswald regular"; cursor: pointer;}
 #menu li > a {text-decoration:none; color: #b3b3b3;}
+#menu li > a:hover {text-decoration:none; color: #fff;}
 
-#carousel { height: 326px; background: black;}
-#carousel img {margin-left: 100px;}
+#carousel { height: 326px; background: black; text-align: center;}
+#carousel img {}
 
 .container {min-height: 312px; background: #e6e6e6; font-family: "Oswald regular";}
 .container h1 {font-size: 34px;}
@@ -64,20 +68,20 @@ body {margin: 0;}
 
 .rows-news-events {margin-bottom: 4px;}
 .bullet {display:inline-block; vertical-align: top;}
-.name-news-events {font-family: "HelveticaNeue Roman"; font-size: 14px; display:inline-block; width: 400px; padding: 3px 8px;}
+.name-news-events {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; display:inline-block; width: 400px; padding: 3px 8px; font-weight: 200;}
 .name-news-events a {text-decoration:none; color: #4d4d4d;}
 .name-news-events a:hover {color: black;}
 
 .text-description-1 {font-family: "OpenSans Light"; font-size: 21px; color: #4d4d4d;}
-.text-description-2 {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
+.text-description-2 {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200; color: #4d4d4d; line-height: 20px;}
 
 .about-box {background: white; width: 320px; height: 370px;}
 .about-box-text-image {padding: 22px 0 16px; text-align: center;}
 .about-box-text-header {font-family: "Oswald regular"; font-size: 18px; color: #4d4d4d; text-align: center;}
 .about-box-text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #727272; padding: 10px 24px 0;}
 
-.text-content-header {font-family: "OpenSans Light"; font-size: 20px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
-.text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #4d4d4d;}
+.text-content-header {font-family: "OpenSans Regular"; font-size: 21px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
+.text-content {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200; color: #4d4d4d; line-height: 20px;}
 .text-content a {text-decoration:none; color: #4d4d4d; cursor: pointer;}
 .text-content a:hover {color: #9dc427;}
 .text-content-green {font-family: "tex gyre heros regular"; font-size: 14px; color: #62bd19;}
@@ -106,3 +110,7 @@ footer {background:#000; height: 44px;}
 #logo-facebook {float: right; background-image: url("../images/p1/facebook.png"); width: 78px; height: 20px; margin: 13px 100px;
 }
 
+#admissions a {color: #62bd19;}
+
+#new-event {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200;}
+#new-event h2 {padding-top: 36px;}

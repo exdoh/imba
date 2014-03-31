@@ -68,7 +68,7 @@
 										<select name="subject">
 											  <option value="" selected>Please select the subject</option>
 											  <option value="General Enquiries">General Enquiries</option>
-											  <option value="Request a Brochure">Request a Brochure</option>
+											  <option value="Request a Brochure">Request Program Information</option>
 										</select>
 									</div>
 									<div><textarea id="msg" name="msg"></textarea></div>
