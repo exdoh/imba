@@ -17,7 +17,8 @@ body {margin: 0;}
 #banner { background: #000; height: 100px;}
 
 #blursheet {background-image: url("../images/p1/blursheet-ie.png"); position: fixed; width: 100%; height: 100%; z-index: 1;}
-#popup-browser {position: fixed; background: #fff; color: #000; z-index: 2; width: 660px; height: 342px; border: 1px solid #000; left: 24%; margin-top: 140px;}
+#popup-browser {position: fixed; background: #fff; color: #000; z-index: 2; width: 660px; height: 342px; border: 2px solid #000; left: 24%; margin-top: 140px;}
+#popup-browser a{color: red; text-decoration:none;}
 #popup-browser .rows {margin-left: 50px;margin-top: 10px;}
 
 #notice {}
