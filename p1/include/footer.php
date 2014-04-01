@@ -30,7 +30,10 @@
 			}
 
 			$(document).ready(function(){
-				if(isIE(8)){ $('#popup-browser').show(); }
+				if(isIE(8)){ 
+					$('#blursheet').show();
+					$('#popup-browser').show(); 
+				}
 			});
 			
 			function action_click(name,status)
