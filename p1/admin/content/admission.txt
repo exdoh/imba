@@ -63,19 +63,19 @@
                     </div>
                     <div class="even">
                         <div class="even-odd-text left-inline-block font-bold deadline">Interview Examination</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 10, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 14, 2014</div>
                     </div>
                     <div class="odd">
                         <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Successful Candidates</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 15, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 20, 2014</div>
                     </div>
                     <div class="even">
                         <div class="even-odd-text left-inline-block font-bold deadline">Program Registration</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 19-21, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 21-23, 2014</div>
                     </div>
                     <div class="odd">
                         <div class="even-odd-text left-inline-block font-bold deadline">Pre-course Begins</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">May 25, 2014</div>
                     </div>
                 </div>
             </div>
