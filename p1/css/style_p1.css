@@ -17,11 +17,12 @@ body {margin: 0;}
 #banner { background: #000; height: 100px;}
 
 #blursheet {background-image: url("../images/p1/blursheet-ie.png"); position: fixed; width: 100%; height: 100%; z-index: 1;}
-#popup-browser {position: fixed; background: #fff; color: #000; z-index: 2; width: 660px; height: 342px; border: 2px solid #000; left: 24%; margin-top: 140px;}
+#popup-browser {position: fixed; background: #fff; color: #000; z-index: 2; width: 660px; height: 342px; border: 2px solid #000; left: 24%; margin-top: 140px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
 #popup-browser a{color: red; text-decoration:none;}
 #popup-browser .rows {margin-left: 50px;margin-top: 10px;}
 
 #notice {}
+#notice h3 {font-size: 16px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: bold;}
 #notice .text {vertical-align: top; padding-top: 6px;}
 
 #update-browser {width: 540px;}
@@ -69,11 +70,11 @@ body {margin: 0;}
 .col-22 {width: 22%;}
 
 .col-contact-1 {width: 20%;}
-.col-contact-1 div {margin: 10px 0 20px;}
+.col-contact-1 div {margin: 10px 0 24px;}
 .col-contact-2 {}
-.col-contact-2 input[type="text"] {width: 466px; height: 20px; border: 1px solid #ccc; margin: 8px 0;}
-.col-contact-2 textarea {width: 466px; border: 1px solid #ccc; margin: 8px 0;}
-.col-contact-2 select {width: 468px; height: 24px; border: 1px solid #ccc; margin: 8px 0;color: #666; font-family: "tex gyre heros regular"; font-size: 14px;}
+.col-contact-2 input[type="text"] {width: 466px; height: 20px; border: 1px solid #ccc; margin: 8px 0;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+.col-contact-2 textarea {width: 466px; border: 1px solid #ccc; margin: 8px 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+.col-contact-2 select {width: 468px; height: 24px; border: 1px solid #ccc; margin: 8px 0;color: #666; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px;}
 .col-contact-2 input[type="button"] {background-image: url("../images/p1/submit-button.jpg"); width: 101px; height: 23px; border: 0; cursor: pointer;}
 .col-contact-2 input[type="button"]:hover {background-image: url("../images/p1/submit-button-hover.jpg");}
 
@@ -95,14 +96,14 @@ body {margin: 0;}
 .about-box {background: white; width: 320px; height: 370px;}
 .about-box-text-image {padding: 22px 0 16px; text-align: center;}
 .about-box-text-header {font-family: "Oswald regular"; font-size: 18px; color: #4d4d4d; text-align: center;}
-.about-box-text-content {font-family: "tex gyre heros regular"; font-size: 14px; color: #727272; padding: 10px 24px 0;}
+.about-box-text-content {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; color: #727272; padding: 10px 24px 0;}
 
 .text-content-header {font-family: "OpenSans Regular"; font-size: 21px; font-weight: bold; color: #62bd19; margin-bottom: 15px;}
 .text-content {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 200; color: #4d4d4d; line-height: 20px;}
 .text-content a {text-decoration:none; color: #4d4d4d; cursor: pointer;}
 .text-content a:hover {color: #9dc427;}
-.text-content-green {font-family: "tex gyre heros regular"; font-size: 14px; color: #62bd19;}
-.text-content-666 {font-family: "tex gyre heros regular"; font-size: 14px; color: #666;}
+.text-content-green {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; color: #62bd19;}
+.text-content-666 {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; color: #666;}
 .text-content ul {margin: 0;}
 
 .even {height: 32px; background: white; vertical-align: center; margin-bottom: 1px;}
@@ -123,7 +124,7 @@ body {margin: 0;}
 .text-padding-subject {padding-top: 56px;}
 
 footer {background:#000; height: 44px;}
-#copyright {float: left; font-family: "tex gyre heros regular"; font-size: 10px; color: #b3b3b3; padding: 15px 100px;}
+#copyright {float: left; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 10px; color: #b3b3b3; padding: 15px 100px;}
 #logo-facebook {float: right; background-image: url("../images/p1/facebook.png"); width: 78px; height: 20px; margin: 13px 100px;
 }
 
