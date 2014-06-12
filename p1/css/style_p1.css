@@ -36,7 +36,8 @@ body {margin: 0;}
 .block-browser .img {margin: 0;}
 
 #logo-imba {float: left; display: inline-block; background-image: url("../images/p1/imba.png"); width: 192px; height: 65px; margin: 18px 94px;}
-#logo-TU {float: right; background-image: url("../images/p1/Thammasat-Business-School.jpg"); width: 60px; height: 65px; margin: 18px 94px;}
+#logo-equis {float: right; background-image: url("../images/p1/equis.png"); width: 60px; height: 65px; margin-top: 16px;}
+#logo-TU {float: right; background-image: url("../images/p1/Thammasat-Business-School.jpg"); width: 60px; height: 65px; margin: 18px 94px 0 24px;}
 
 #menu {background: #333; height: 36px; border-top: 1px solid #666; border-bottom: 1px solid #666;}
 #menu ul {margin-top: 8px;}

@@ -98,6 +98,7 @@
 			<div id="banner">
 				<a href="index.php"><div id="logo-imba"></div></a>
 				<div id="logo-TU"></div>
+				<div id="logo-equis"></div>
 			</div>
 			
 			<div id="menu">
