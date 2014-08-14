@@ -1,0 +1,2 @@
+10:21:16 []  SELECT * FROM news order by news_id desc
+10:21:16 []  SELECT * FROM events order by events_id desc
