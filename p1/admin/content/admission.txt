@@ -47,35 +47,35 @@
                 <div class="text-content">
                     <div class="even">
                         <div class="even-odd-text left-inline-block font-bold deadline">Application Filing Period</div>
-                        <div class="even-odd-text left-inline-block">February 1 - April  20, 2014</div>
+                        <div class="even-odd-text left-inline-block">1 September 2014 - 15 January 2015</div>
                     </div>
                     <div class="odd">
                         <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Candidates Eligible for the Admission Test</div>
-                        <div class="even-odd-text left-inline-block text-credit">April 25,  2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">21 January 2015</div>
                     </div>
                     <div class="even">
                         <div class="even-odd-text left-inline-block font-bold deadline">Thammasat Business School's International Graduate Program Admission Test</div>
-                        <div class="even-odd-text left-inline-block text-credit">April 26,  2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">24 January 2015</div>
                     </div>
                     <div class="odd">
                         <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Candidates Eligible for Interview</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 8, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">9 February 2015</div>
                     </div>
                     <div class="even">
                         <div class="even-odd-text left-inline-block font-bold deadline">Interview Examination</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 14, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">21 February 2015</div>
                     </div>
                     <div class="odd">
                         <div class="even-odd-text left-inline-block font-bold deadline">Announcement of Successful Candidates</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 20, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">2 March 2015</div>
                     </div>
                     <div class="even">
                         <div class="even-odd-text left-inline-block font-bold deadline">Program Registration</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 21-23, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">9 - 13 March 2015</div>
                     </div>
                     <div class="odd">
                         <div class="even-odd-text left-inline-block font-bold deadline">Pre-course Begins</div>
-                        <div class="even-odd-text left-inline-block text-credit">May 25, 2014</div>
+                        <div class="even-odd-text left-inline-block text-credit">June 2015</div>
                     </div>
                 </div>
             </div>
