@@ -35,6 +35,7 @@
 </script>
 
 		<div id="carousel">
+      <a href="http://gradreg.bus.tu.ac.th/2014/register1.aspx?Lang=EN"><div id="carousel-box"></div></a>
 			<img src="images/p1/carousel/home.jpg">
 		</div>
 		

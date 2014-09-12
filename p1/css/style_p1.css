@@ -47,6 +47,7 @@ body {margin: 0;}
 
 #carousel { height: 326px; background: black; text-align: center;}
 #carousel img {}
+#carousel-box {position: absolute; margin-left: 848px; margin-top: 14px; width: 310px;height: 298px; cursor: pointer;}
 
 .container {min-height: 312px; background: #e6e6e6; font-family: "Oswald regular";}
 .container h1 {font-size: 34px;}
